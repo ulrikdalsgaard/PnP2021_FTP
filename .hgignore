@@ -1,0 +1,12 @@
+syntax: regexp
+^Temp/
+^Binaries/
+^Diagnosis/
+?\.set
+?\.isopen
+?\.log
+syntax: glob
+*.orig
+Logical/modules/main/main/build.typ
+brdkVisLibs.zip
+index.html
